@@ -1,14 +1,14 @@
-Trabalho 2:
+# Trabalho 2:
 
-Tema 5: Problemas de lógica em Prolog
+# Tema 5: Problemas de lógica em Prolog
 
-Exemplo: Concurso de Cantoras
+## Exemplo: [Concurso de Cantoras](ConcursoDeCantoras.pl)
 
-Exercício proposto:
+## Exercício proposto:
 
-A cliente mais nova está em uma das pontas.
-Viviane está ao lado da mulher da bolsa Amarela.
-Quem comprará o livro mais caro está em algum lugar entre quem escolheu o livro de Animais e quem gastará R$ 30, nessa ordem.
+- A cliente mais nova está em uma das pontas.
+- Viviane está ao lado da mulher da bolsa Amarela.
+- Quem comprará o livro mais caro está em algum lugar entre quem escolheu o livro de Animais e quem gastará R$ 30, nessa ordem.
 A Bióloga está na primeira posição.
 A dona da bolsa Branca está em algum lugar entre a dona da bolsa Verde e a Luana, nessa ordem.
 A Editora está em uma das pontas.
